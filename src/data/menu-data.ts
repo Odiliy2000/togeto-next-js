@@ -8,10 +8,10 @@ import homeImg5 from '@/assets/img/menu/home-5.jpg';
 
 const homeMenuData: IMenuDT[] = [
   {
-    id: 1,
+    id: 2,
     title: 'Home',
-    link: '/',
-    home_menus: []
+    link: 'home-2',
+    
   },
 ];
 
@@ -31,26 +31,7 @@ export const menuData: IMenuDT[] = [
       { title: 'Service Details', link: '/service-details/1' },
     ],
   },
-  {
-    id: 4,
-    title: 'Pages',
-    link: '#',
-    dropdown_menus: [
-      { title: 'Team', link: '/team' },
-      { title: 'Team Details', link: '/team-details/1' },
-      { title: 'Price', link: '/price' },
-      { title: 'Testimonial', link: '/testimonial' },
-      { title: 'Shop', link: '/shop' },
-      { title: 'Shop Sidebar', link: '/shop-sidebar' },
-      { title: 'Shop Details', link: '/shop-details/1' },
-      { title: 'Wishlist', link: '/wishlist' },
-      { title: 'Compare', link: '/compare' },
-      { title: 'Cart', link: '/cart' },
-      { title: 'Checkout', link: '/checkout' },
-      { title: 'Faq', link: '/faq' },
-      { title: 'Error', link: '/404' },
-    ],
-  },
+  
   {
     id: 5,
     title: 'Portfolio',

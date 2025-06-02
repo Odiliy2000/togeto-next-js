@@ -67,7 +67,7 @@ const Header = ({
               <div className="row align-items-center">
                 <div className="col-xxl-2 col-xl-2 col-6">
                   <div className="it-header-logo">
-                    <Link href="/">
+                    <Link href="/home-2">
                       <Image
                         className="image-height-auto"
                         src={headerLogo}
