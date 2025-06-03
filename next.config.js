@@ -4,4 +4,11 @@ const nextConfig = {
   output: 'export',
 };
 
+module.exports = {
+  images: {
+    domains: ['fonts.gstatic.com', 'fonts.googleapis.com'],
+  },
+};
+
+
 module.exports = nextConfig;
