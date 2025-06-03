@@ -1,10 +1,10 @@
 import { IMenuDT } from '@/types/menu-d-t';
 
 import homeImg1 from '@/assets/img/menu/home-1.jpg';
-import homeImg2 from '@/assets/img/menu/home-2.jpg';
-import homeImg3 from '@/assets/img/menu/home-3.jpg';
-import homeImg4 from '@/assets/img/menu/home-4.jpg';
-import homeImg5 from '@/assets/img/menu/home-5.jpg';
+// import homeImg2 from '@/assets/img/menu/home-2.jpg';
+// import homeImg3 from '@/assets/img/menu/home-3.jpg';
+// import homeImg4 from '@/assets/img/menu/home-4.jpg';
+// import homeImg5 from '@/assets/img/menu/home-5.jpg';
 
 const homeMenuData: IMenuDT[] = [
   {
